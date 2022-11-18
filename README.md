@@ -1,2 +1,2 @@
-# grpc-basics
-Introduction to gRPC with Server/Client example.
+# Microservices
+Introduction to Microservices Architecture with Protocol Buffers 
